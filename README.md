@@ -1,5 +1,4 @@
 ## Tudo bem? Sou Andrei Joda 👦🏼
-
 <div>
   <a href="https://github.com/andreijoda">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreijoda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
